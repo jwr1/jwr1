@@ -24,6 +24,14 @@
 #### Deployment
 [![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=GitHub%20Actions&logoColor=white)](https://github.com/features/actions)
 
+## 🚀 What I'm Learning
+[![Debian Packaging](https://img.shields.io/badge/-Debian%20Packaging-A81D33?style=flat-square&logo=Debian&logoColor=white)](https://www.debian.org)
+
+[![Qt Framework](https://img.shields.io/badge/-Qt%20Framework-41CD52?style=flat-square&logo=Qt&logoColor=white)](https://www.qt.io)
+
+[![Kotlin Language](https://img.shields.io/badge/-Kotlin%20Language-0095D5?style=flat-square&logo=Kotlin&logoColor=white)](https://kotlinlang.org)
+
+
 ## Support
 
 Support is appreciated: [![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-FF813F?style=flat-square&logo=Buy%20Me%20A%20Coffee&logoColor=white)](https://www.buymeacoffee.com/jwr12135) 
