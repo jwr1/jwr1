@@ -1,6 +1,92 @@
 ### Hi there 👋
 
-![jwr12135's github stats](https://github-readme-stats.vercel.app/api?username=jwr12135&show_icons=true&theme=gruvbox)
+![jwr12135's github stats](https://github-readme-stats.vercel.app/api?username=jwr12135&show_icons=true&theme=transparent)
+
+## ✨ Projects I've Worked On:
+
+### [Web Launcher](https://github.com/web-launcher/web-launcher)
+
+[![GitHub](https://img.shields.io/github/license/web-launcher/web-launcher)](https://github.com/fontsource/fontsource/blob/main/LICENSE)
+[![GitHub Repo stars](https://img.shields.io/github/stars/web-launcher/web-launcher?style=social)](https://github.com/web-launcher/web-launcher/stargazers)
+
+A material design dashboard for your new tab page. 
+
+[![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=TypeScript&logoColor=white)](https://www.typescriptlang.org)
+[![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=black)](https://reactjs.org)
+[![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)](https://nextjs.org)
+[![MUI](https://img.shields.io/badge/-MUI-007FFF?style=flat-square&logo=MUI&logoColor=white)](https://mui.com)
+[![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black)](https://firebase.google.com)
+
+---
+
+### [Fontsource](https://github.com/fontsource/fontsource)
+
+[![GitHub](https://img.shields.io/github/license/fontsource/fontsource)](https://github.com/fontsource/fontsource/blob/main/LICENSE)
+[![GitHub Repo stars](https://img.shields.io/github/stars/fontsource/fontsource?style=social)](https://github.com/fontsource/fontsource/stargazers)
+
+Self-host Open Source fonts in neatly bundled NPM packages.
+
+[![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=TypeScript&logoColor=white)](https://www.typescriptlang.org)
+[![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=black)](https://reactjs.org)
+[![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=Sass&logoColor=white)](https://sass-lang.com)
+[![NestJS.js](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)](https://nestjs.com)
+
+---
+
+### [Fontsource Flutter](https://github.com/fontsource/fontsource-flutter)
+
+[![GitHub](https://img.shields.io/github/license/fontsource/fontsource-flutter)](https://github.com/fontsource/fontsource/blob/main/LICENSE)
+[![GitHub Repo stars](https://img.shields.io/github/stars/fontsource/fontsource-flutter?style=social)](https://github.com/fontsource/fontsource-flutter/stargazers)
+
+Easily add Fontsource fonts to your flutter app. Includes a dart interface for the Fontsource API.
+
+[![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=Dart&logoColor=white)](https://dart.dev)
+[![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white)](https://flutter.dev)
+
+---
+
+### [unplugin-web-ext](https://github.com/jwr12135/unplugin-web-ext)
+
+[![GitHub](https://img.shields.io/github/license/fontsource/fontsource)](https://github.com/jwr12135/unplugin-web-ext/blob/main/LICENSE)
+[![GitHub Repo stars](https://img.shields.io/github/stars/jwr12135/unplugin-web-ext?style=social)](https://github.com/jwr12135/unplugin-web-ext/stargazers)
+
+Simplify web extension creation with Webpack, Rollup, Vite, and esbuild.
+
+[![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=TypeScript&logoColor=white)](https://www.typescriptlang.org)
+
+---
+
+### [create-unplugin](https://github.com/jwr12135/create-unplugin)
+
+[![GitHub](https://img.shields.io/github/license/jwr12135/create-unplugin)](https://github.com/jwr12135/create-unplugin/blob/main/LICENSE)
+[![GitHub Repo stars](https://img.shields.io/github/stars/jwr12135/create-unplugin?style=social)](https://github.com/jwr12135/create-unplugin/stargazers)
+
+Initialize a new unplugin package.
+
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+---
+
+### [Fallback Font](https://github.com/jwr12135/fallback-font)
+
+[![GitHub](https://img.shields.io/github/license/jwr12135/fallback-font)](https://github.com/jwr12135/fallback-font/blob/main/LICENSE)
+[![GitHub Repo stars](https://img.shields.io/github/stars/jwr12135/fallback-font?style=social)](https://github.com/jwr12135/fallback-font/stargazers)
+
+A font that maps every character to one glyph. (Similar to Adobe Blank)
+
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Next.js](https://img.shields.io/badge/-OpenType-000000?style=flat-square)](https://learn.microsoft.com/en-us/typography/opentype/)
+
+---
+
+### [date-form](https://github.com/jwr12135/date-form)
+
+[![GitHub](https://img.shields.io/github/license/jwr12135/date-form)](https://github.com/jwr12135/date-form/blob/main/LICENSE)
+[![GitHub Repo stars](https://img.shields.io/github/stars/jwr12135/date-form?style=social)](https://github.com/jwr12135/date-form/stargazers)
+
+Customizable date formatter with builtin presets.
+
+[![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=TypeScript&logoColor=white)](https://www.typescriptlang.org)
 
 ## 🔧 Technologies I'm Familiar With:
 
