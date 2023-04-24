@@ -6,8 +6,8 @@
 
 ### [Sourcetab](https://github.com/sourcetab/sourcetab)
 
-[![GitHub](https://img.shields.io/github/license/web-launcher/web-launcher)](https://github.com/fontsource/fontsource/blob/main/LICENSE)
-[![GitHub Repo stars](https://img.shields.io/github/stars/web-launcher/web-launcher?style=social)](https://github.com/web-launcher/web-launcher/stargazers)
+[![GitHub](https://img.shields.io/github/license/sourcetab/sourcetab)](https://github.com/sourcetab/sourcetab/blob/main/LICENSE)
+[![GitHub Repo stars](https://img.shields.io/github/stars/sourcetab/sourcetab?style=social)](https://github.com/sourcetab/sourcetab/stargazers)
 
 A material design dashboard for your new tab page. 
 
