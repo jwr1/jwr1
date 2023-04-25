@@ -15,7 +15,6 @@ A material design dashboard for your new tab page.
 [![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=black)](https://reactjs.org)
 [![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)](https://nextjs.org)
 [![MUI](https://img.shields.io/badge/-MUI-007FFF?style=flat-square&logo=MUI&logoColor=white)](https://mui.com)
-[![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black)](https://firebase.google.com)
 
 ---
 
