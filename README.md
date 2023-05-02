@@ -9,7 +9,7 @@
 [![GitHub](https://img.shields.io/github/license/sourcetab/sourcetab)](https://github.com/sourcetab/sourcetab/blob/main/LICENSE)
 [![GitHub Repo stars](https://img.shields.io/github/stars/sourcetab/sourcetab?style=social)](https://github.com/sourcetab/sourcetab/stargazers)
 
-A material design dashboard for your new tab page. 
+An open-source dashboard for your new tab page.
 
 [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=TypeScript&logoColor=white)](https://www.typescriptlang.org)
 [![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=black)](https://reactjs.org)
