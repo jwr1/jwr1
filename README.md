@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![jwr12135's github stats](https://github-readme-stats.vercel.app/api?username=jwr12135&show_icons=true&theme=transparent)
+![jwr1's github stats](https://github-readme-stats.vercel.app/api?username=jwr1&show_icons=true&theme=transparent)
 
 ## ✨ Projects I've Worked On:
 
@@ -44,10 +44,10 @@ Easily add Fontsource fonts to your flutter app. Includes a dart interface for t
 
 ---
 
-### [unplugin-web-ext](https://github.com/jwr12135/unplugin-web-ext)
+### [unplugin-web-ext](https://github.com/jwr1/unplugin-web-ext)
 
-[![GitHub](https://img.shields.io/github/license/fontsource/fontsource)](https://github.com/jwr12135/unplugin-web-ext/blob/main/LICENSE)
-[![GitHub Repo stars](https://img.shields.io/github/stars/jwr12135/unplugin-web-ext?style=social)](https://github.com/jwr12135/unplugin-web-ext/stargazers)
+[![GitHub](https://img.shields.io/github/license/fontsource/fontsource)](https://github.com/jwr1/unplugin-web-ext/blob/main/LICENSE)
+[![GitHub Repo stars](https://img.shields.io/github/stars/jwr1/unplugin-web-ext?style=social)](https://github.com/jwr1/unplugin-web-ext/stargazers)
 
 Simplify web extension creation with Webpack, Rollup, Vite, and esbuild.
 
@@ -55,10 +55,10 @@ Simplify web extension creation with Webpack, Rollup, Vite, and esbuild.
 
 ---
 
-### [create-unplugin](https://github.com/jwr12135/create-unplugin)
+### [create-unplugin](https://github.com/jwr1/create-unplugin)
 
-[![GitHub](https://img.shields.io/github/license/jwr12135/create-unplugin)](https://github.com/jwr12135/create-unplugin/blob/main/LICENSE)
-[![GitHub Repo stars](https://img.shields.io/github/stars/jwr12135/create-unplugin?style=social)](https://github.com/jwr12135/create-unplugin/stargazers)
+[![GitHub](https://img.shields.io/github/license/jwr1/create-unplugin)](https://github.com/jwr1/create-unplugin/blob/main/LICENSE)
+[![GitHub Repo stars](https://img.shields.io/github/stars/jwr1/create-unplugin?style=social)](https://github.com/jwr1/create-unplugin/stargazers)
 
 Initialize a new unplugin package.
 
@@ -66,10 +66,10 @@ Initialize a new unplugin package.
 
 ---
 
-### [Fallback Font](https://github.com/jwr12135/fallback-font)
+### [Fallback Font](https://github.com/jwr1/fallback-font)
 
-[![GitHub](https://img.shields.io/github/license/jwr12135/fallback-font)](https://github.com/jwr12135/fallback-font/blob/main/LICENSE)
-[![GitHub Repo stars](https://img.shields.io/github/stars/jwr12135/fallback-font?style=social)](https://github.com/jwr12135/fallback-font/stargazers)
+[![GitHub](https://img.shields.io/github/license/jwr1/fallback-font)](https://github.com/jwr1/fallback-font/blob/main/LICENSE)
+[![GitHub Repo stars](https://img.shields.io/github/stars/jwr1/fallback-font?style=social)](https://github.com/jwr1/fallback-font/stargazers)
 
 A font that maps every character to one glyph. (Similar to Adobe Blank)
 
@@ -78,10 +78,10 @@ A font that maps every character to one glyph. (Similar to Adobe Blank)
 
 ---
 
-### [date-form](https://github.com/jwr12135/date-form)
+### [date-form](https://github.com/jwr1/date-form)
 
-[![GitHub](https://img.shields.io/github/license/jwr12135/date-form)](https://github.com/jwr12135/date-form/blob/main/LICENSE)
-[![GitHub Repo stars](https://img.shields.io/github/stars/jwr12135/date-form?style=social)](https://github.com/jwr12135/date-form/stargazers)
+[![GitHub](https://img.shields.io/github/license/jwr1/date-form)](https://github.com/jwr1/date-form/blob/main/LICENSE)
+[![GitHub Repo stars](https://img.shields.io/github/stars/jwr1/date-form?style=social)](https://github.com/jwr1/date-form/stargazers)
 
 Customizable date formatter with builtin presets.
 
